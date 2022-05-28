@@ -12,6 +12,19 @@ public class client {
         client.facade.Attend();
         client.facade.finish();
         System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
+        System.out.println("abcd");
     }
 
     public client() {
