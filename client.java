@@ -11,6 +11,7 @@ public class client {
         client client = new client();
         client.facade.Attend();
         client.facade.finish();
+        System.out.println("abcd");
     }
 
     public client() {
